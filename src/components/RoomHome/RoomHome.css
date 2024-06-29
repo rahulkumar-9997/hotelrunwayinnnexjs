@@ -1,0 +1,14 @@
+/* HorizontalCardList.css */
+.row.flex-nowrap {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  .card {
+    width: 22rem;
+    /* Set the width of each card */
+    display: inline-block;
+    /* Display cards in a row */
+    margin-right: 10px;
+    /* Add some margin between cards */
+  }
